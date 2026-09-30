@@ -122,24 +122,6 @@ I focus on clean architecture, responsive UI, state management, real-time featur
 </tr>
 </table>
 
-### 🏗 Architecture Pattern
-
-```text
-UI (Views & Custom Widgets)
-        ↕
-GetX Controller / Cubit
-        ↕
-Repository Layer
-        ↕
-ApiClient (Dio) / WebSockets
-        ↕
-Models
-```
-
-* **Folder Architecture:** Feature-first modular structure
-* **Design System:** Reusable custom components and shared UI widgets
-
----
 
 ## 🚀 Featured Projects
 
@@ -163,7 +145,7 @@ Two-sided delivery system with Customer & Rider apps, live GPS tracking, route n
 
 ---
 
-### ⚖️ **Panama Legal**
+### ⚖️ ***Panama Legal***
 
 **Legal Consultation & Law Library**
 
