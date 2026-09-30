@@ -125,7 +125,7 @@ I focus on clean architecture, responsive UI, state management, real-time featur
 
 ## 🚀 Featured Projects
 
-### 🏥 **Permawell Health Care**
+### 🏥 ***Permawell Health Care***
 
 **Doctor Appointment & Telehealth Platform**
 
@@ -135,7 +135,7 @@ Healthcare app for doctor discovery, appointment booking, payments, and patient-
 
 ---
 
-### 📦 **MileSquad**
+### 📦 ***MileSquad***
 
 **Parcel Delivery Platform**
 
@@ -155,7 +155,7 @@ Legal platform with lawyer consultations, real-time chat, automated triage, and 
 
 ---
 
-### 📍 **Just Clicker**
+### 📍 ***Just Clicker***
 
 **Proximity-Based Social Network**
 
@@ -165,7 +165,7 @@ Location-based social app with nearby user discovery, messaging, notifications, 
 
 ---
 
-### 🍔 **Brain Denner**
+### 🍔 ***Brain Denner***
 
 **Nutrition & Meal Tracker**
 
