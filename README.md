@@ -173,7 +173,7 @@ Lifestyle app for restaurant discovery, meal tracking, and personalized nutritio
 
 **Tech:** `Flutter` `GetX` `Dio` `REST API` `Cached Network Image`
 
----
+
 
 ## 📬 Let's Connect & Build Together
 
