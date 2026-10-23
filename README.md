@@ -174,7 +174,6 @@ Lifestyle app for restaurant discovery, meal tracking, and personalized nutritio
 **Tech:** `Flutter` `GetX` `Dio` `REST API` `Cached Network Image`
 
 
-
 ## 📬 Let's Connect & Build Together
 
 I'm actively open to **Flutter Developer roles (Full-time / Remote)** and exciting **freelance mobile projects**.
