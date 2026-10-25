@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 📱 MD Ebrahim Nazmul · Senior / Mid-Level Flutter Developer
+### 📱 MD EBRAHIM NAZMUL · JR / Mid-Level Flutter Developer
 **Building Scalable, Pixel-Perfect & High-Performance Mobile Apps (Android & iOS)**
 
 <p align="center">
