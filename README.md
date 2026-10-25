@@ -146,16 +146,6 @@ I am a passionate **Flutter Developer** at **Sparktech Agency**, Dhaka. With a s
 - ⚡ Offline-first image caching and responsive diet metric charts.
 - **Tech Stack:** `Flutter` `GetX` `Dio` `Cached Network Image` `Clean Architecture`
 
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onionroots&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ebrahim's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onionroots&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
----
 
 ## 📬 Let's Connect & Build Together
 
