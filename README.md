@@ -156,6 +156,8 @@ I am actively available for:
 - 🚀 **Contract & High-Impact Freelance Projects**
 - 🤝 **Open-source collaborations**
 
+- 
+
 <div align="center">
   <br/>
   <code><b>💡 "Eat → Code → Sleep → Repeat" 🚀</b></code>
