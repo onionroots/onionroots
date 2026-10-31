@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="MD Ebrahim Nazmul - Flutter Developer Banner" width="100%" />
+<img src="./assets/banner.png" alt="MD EBRAHIM NAZMUL - Flutter Developer Banner" width="100%" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 📱 MD EBRAHIM NAZMUL · JR / Mid-Level Flutter Developer
+### 📱 MD EBRAHIM NAZMUL · Jr Flutter Developer
 **Building Scalable, Pixel-Perfect & High-Performance Mobile Apps (Android & iOS)**
 
 <p align="center">
