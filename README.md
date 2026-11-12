@@ -158,8 +158,6 @@ I am actively available for:
 - 🚀 **Contract & High-Impact Freelance Projects**
 - 🤝 **Open-source collaborations**
 
-
-
 - 
 
 <div align="center">
