@@ -32,7 +32,6 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
 I am a passionate **Flutter Developer** at **Sparktech Agency**, Dhaka. With a strong track record of engineering cross-platform applications end-to-end, I specialize in translating complex business logic into smooth, responsive, 60fps mobile experiences.
@@ -51,7 +50,6 @@ I am a passionate **Flutter Developer** at **Sparktech Agency**, Dhaka. With a s
 ```
 
 ---
-
 ## 🛠 Tech Stack & Tools
 
 <table>
