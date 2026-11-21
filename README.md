@@ -154,7 +154,6 @@ I am actively available for:
 - 🤝 **Open-source collaborations**
 
 - 
-
 <div align="center">
   <br/>
   <code><b>💡 "Eat → Code → Sleep → Repeat" 🚀</b></code>
